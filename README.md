@@ -110,4 +110,4 @@ This will provide a URL to access debugging tools in your browser.
 
 ## License
 
-[Add your license information here]
+MIT
